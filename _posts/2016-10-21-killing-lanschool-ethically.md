@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Killing LanSchool Ethically
-tags: lanschool kill vulnerability
+keywords: lanschool, kill, vulnerability
 description: Security through obscurity has its downfalls.
-custom_css: syntax
 ---
 Disclaimer
 ---------

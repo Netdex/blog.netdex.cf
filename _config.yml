@@ -10,8 +10,8 @@ baseurl: "" # apply repo name if use it under gh-pages branch
 
 google_analytics: UA-73692659-1
 repo: http://github.com/netdex/blog.netdex.cf
-disqus_shortname: "hnbloggithub"
-twitter_username: "HeiswayiNrird"
+#disqus_shortname: ""
+#twitter_username: ""
 comments: false
 
 # Build settings
@@ -30,13 +30,13 @@ sass:
 # Author settings
 author:
   name     : "Gordon Guan"
-  job      : "amateur programmer"
-  bio      : "please enjoy my neural noise"
+  job      : "programmer, tech enthusiast, netsec fanatic, reverse engineer etc, etc."
+  bio      : "I take mundane ideas, mix them together with MSDN and StackOverflow, and spit out software. If I think of something interesting, I'll try to write something about it here. In the meantime, enjoy my neural noise."
   thumb    : /images/author.jpg
   email    : admin@netdex.cf
   url      : https://netdex.cf
   github   : http://github.com/netdex
-  twitter  : http://twitter.com/netdex
+#  twitter  : 
 #  facebook : 
 #  linkedin : 
 
