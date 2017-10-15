@@ -26,7 +26,7 @@ I decided to leave it at that, as a mystery that would never be solved. Alas, I 
 [Recording 1](https://streamable.com/f27j5)<br>
 [Recording 2](https://streamable.com/jtbp0)
 
-Here are two recordings I made of the transmission. I honestly had no idea what to think at this point. My mind could not rationalize why the Space Jam remix of Renai Circulation would be broadcasted at 915MHz. A while later, I started hearing a Film Theory video on the Emoji Movie. Of course, this latest broadcast helped me understand a few more things about this transmission.
+Here are two recordings I made of the transmission. I honestly had no idea what to think at this point. My mind could not rationalize why a [Space Jam remix of Renai Circulation](https://www.youtube.com/watch?v=f3IgwLT_mYc) would be broadcasted at 915MHz. A while later, I started hearing a Film Theory video on the Emoji Movie. Of course, this latest broadcast helped me understand a few more things about this transmission.
 
 ## Analysis
 Some facts I collected:
