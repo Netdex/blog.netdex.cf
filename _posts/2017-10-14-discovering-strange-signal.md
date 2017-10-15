@@ -48,4 +48,7 @@ Another idea I had is that someone might be using some FCC violating speakers/so
 ### Theory 3: I'm completely wrong
 I still have no clue, so I would not be surprised if all my conclusions were wrong. If you know what it possibly could be, please tell me so I can put this to rest.
 
+### But what about the gunshots and explosions?
+Oh yeah, I almost forgot about those. Taking into account the computer-connected-to-speakers-or-sound-system theory, it was probably someone playing a video game.
+
 Anyways, I'm kinda tired of talking about this so I'll leave it at that. Cheers. 
