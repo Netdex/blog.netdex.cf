@@ -4,4 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+I'm supposed to tell you about myself?
+
+I don't know.. 
+
+I do stuff. If it's even a bit interesting, I might put it here?
