@@ -36,8 +36,9 @@ Some facts I collected:
 - Sometimes, the broadcast is completely silent. However, there is still a waveform shown, with multiple decreasing peaks.
 - Sometimes, the broadcast is completely silent, with no waveform.
 - The broadcast is on a strange frequency, and doesn't snap to a nice number.
+- The audio would constantly jump around backwords and forwards.
 
-This made me start to think. What is causing this broadcast? Since YouTube videos were being played at a random pacing, I deduced that someone must have been casually watching YouTube videos somehow. Somehow, the way they were watching the video had to have caused radio emissions.
+This made me start to think. What is causing this broadcast? Since YouTube videos were being played at a random pacing, I deduced that someone must have been casually watching YouTube videos somehow. The audio jumping around implied this strongly, perhaps they missed something and jumped backwards in the video to hear it again. Somehow, the way they were watching the video had to have caused radio emissions.
 
 ### Theory 1: The RF Audio System
 The first idea I had is that someone might be using some RF solution to broadcast audio from their computer to some audio system or television. This would explain why YouTube videos were playing, rapidly switching as a person navigated videos. The waveform being present while no sound was playing would represent the sound system being on while nothing was being player, and the waveform being non-present would represent the sound system being off. However, this didn't explain a few things. For one, I have never heard of the use of the 33cm band for audio systems before, especially some irrational frequency. It also didn't explain all the interference present around the signal, with multiple copies of the original but at progressively quieter intervals.
