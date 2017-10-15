@@ -1,13 +1,3 @@
-# Thinkspace v2.1
+# blog.netdex.cf
 
-Thinkspace is just another minimalist Jekyll theme which is best suit for technical writing, but not limited to. Good for personal blog type too or project-based blog. Disqus comment is included.
-
-[**Live Demo**](http://heiswayi.github.io/thinkspace/)
-
-### Screenshot
-
-![Thinkspace Screenshot](http://i.imgur.com/IMQDB9e.png)
-
-### License
-
-[MIT](LICENSE.md)
+This website is based upon the Thinkspace Jekyll theme, under the [MIT](LICENSE.md) license.
