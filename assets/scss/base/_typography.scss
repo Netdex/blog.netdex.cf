@@ -17,6 +17,7 @@ h6 {
   line-height: $heading-line-height;
   margin: $small-spacing 0 $small-spacing 0;
   font-weight: 700;
+  font-variant: small-caps;
 }
 
 h1 {
@@ -44,7 +45,7 @@ p {
   margin: 0 0 $small-spacing;
 
   &.lead {
-    font-size: rem(22);
+    font-size: rem(18);
     font-weight: 300;
   }
 }
