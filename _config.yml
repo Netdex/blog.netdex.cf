@@ -29,7 +29,7 @@ sass:
 
 # Author settings
 author:
-  name     : "Gordon Guan"
+  name     : "netdex"
   job      : "programmer, tech enthusiast, netsec fanatic, reverse engineer etc, etc."
   bio      : "I take mundane ideas, mix them together with MSDN and StackOverflow, and spit out software. If I think of something interesting, I'll try to write something about it here. In the meantime, enjoy my neural noise."
   thumb    : /images/author.jpg
