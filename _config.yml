@@ -31,7 +31,7 @@ sass:
 author:
   name     : "netdex"
   job      : "programmer, tech enthusiast, netsec fanatic, reverse engineer etc, etc."
-  bio      : "I take mundane ideas, mix them together with MSDN and StackOverflow, and spit out software. If I think of something interesting, I'll try to write something about it here. In the meantime, enjoy my neural noise."
+  bio      : "I do interesting things sometimes. If they're especially interesting, I'll log them here."
   thumb    : /images/author.jpg
   email    : admin@netdex.cf
   url      : https://netdex.cf
@@ -45,7 +45,7 @@ og_locale: "en_US"
 twitter_card: "summary_large_image"
 twitter_site: "@netdex"
 
-gems:
+plugins:
   - bourbon
   - jekyll-paginate
 

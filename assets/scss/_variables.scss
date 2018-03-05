@@ -21,12 +21,12 @@ $action-color: $primary-color;
 $white-color: #fff;
 $black-color: #000;
 $blue-color: #0086B3;
-$dark-gray-color: #333;
+$dark-gray-color: #111;
 $medium-gray-color: #999;
 $light-gray-color: #ccc;
 
 // Font Colors
-$base-font-color: rgba($dark-gray-color, .8);
+$base-font-color: $dark-gray-color;
 
 // Border
 $base-border-color: $light-gray-color;
