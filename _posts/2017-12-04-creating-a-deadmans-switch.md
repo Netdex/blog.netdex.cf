@@ -4,6 +4,10 @@ title: Creating a Digital Dead Man's Switch
 keywords: dead man switch, dead man, security, death
 description: Planning for post-mortem
 ---
+# Contents
+{:.no_toc}
+* Table of Contents
+{:toc}
 
 # A Digital Will
 Here's a rather morbid topic. Let's say you want some sort of "digital will" - things you want completed digitally after you are dead. Why not appoint a human executor? Because humans are fallible, and you don't know whether or not your testament will be carried out as originally planned.
